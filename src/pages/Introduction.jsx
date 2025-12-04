@@ -1,4 +1,4 @@
-import headshot from "../assets/tyson_picture.jpg";
+import headshot from "../assets/tyson_picture.JPG";
 import "../assets/default.css";
 
 export default function Introduction() {
