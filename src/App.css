@@ -46,3 +46,7 @@ header {
   border-bottom: 3px solid var(--border);
   text-align: center;
 }
+
+h1 {
+  color: #EDF2F4;
+}
